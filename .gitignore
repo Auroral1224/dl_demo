@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+runs/
+weights/
+*.mp4
+yolov5/
+YOLOv6/
+yolov7/
